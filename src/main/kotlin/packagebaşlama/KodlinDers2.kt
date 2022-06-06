@@ -12,5 +12,6 @@ fun main(args: Array<String>) {
 /*
 ben 18 yaşındayım
  */
+// adcd
 
 //todo (mehmet) burası sonra düzeltilecek
