@@ -8,3 +8,9 @@ fun main() {
 fun main(args: Array<String>) {
     println("helloWorld")
 }
+// beinm adım mehmet
+/*
+ben 18 yaşındayım
+ */
+
+//todo (mehmet) burası sonra düzeltilecek
